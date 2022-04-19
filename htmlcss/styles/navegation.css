@@ -1,7 +1,7 @@
 @import url("./root.css");
 
-* {
-  font-family: "Inter";
+body {
+  font-family: "Inter", sans-serif;
 }
 
 .navegation {
@@ -9,7 +9,7 @@
   height: 78px;
 }
 
-.container {
+.container_navegation {
   width: 90%;
   height: 100%;
   margin: 0 auto;
